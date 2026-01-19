@@ -1,6 +1,6 @@
 CODTECH Internship – Task 1
 
-#📌 Internship Details
+##📌 Internship Details
 
 📖 Project Overview
 This project is a static developer portfolio website built using HTML, CSS, and JavaScript.

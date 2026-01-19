@@ -1,8 +1,8 @@
 CODTECH Internship – Task 1
 
-📌 Internship Details
+#📌 Internship Details
 
-#📖 Project Overview
+📖 Project Overview
 This project is a static developer portfolio website built using HTML, CSS, and JavaScript.
 The portfolio serves as a personal branding platform where a developer can present their skills, projects, education, and contact information in a clean, responsive, and user-friendly manner.
 The website is fully responsive and works seamlessly across desktop, tablet, and mobile devices.

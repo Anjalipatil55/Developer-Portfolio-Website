@@ -45,6 +45,6 @@ Adding interactivity using JavaScript
 Organizing files for real-world projects
 Creating professional documentation for GitHub
 
-#🏁 Conclusion
+# 🏁 Conclusion
 This project successfully fulfills CODTECH Internship Task – 1 by delivering a responsive static developer portfolio website.
 It demonstrates fundamental web development skills and best practices, making it suitable for showcasing personal projects and professional profiles.
